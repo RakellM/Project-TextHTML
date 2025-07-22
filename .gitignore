@@ -1,1 +1,4 @@
-*.txt
+OpenAI_API_Key.txt
+\input_files
+\output_files
+
